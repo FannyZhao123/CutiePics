@@ -1,1 +1,1 @@
-# This is a photo editing app create under University of Waterloo CS 446.
+# This is a photo editing app create within group of 3
